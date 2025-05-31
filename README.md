@@ -16,9 +16,9 @@ This project is based on the data from the Kaggle competition [MSK: Redefining C
 
 ## 📁 Project Structure
 /main
-├── solution.ipynb # Main Jupyter Notebook (Solution)
-├── training_variants.csv # Gene and Variation data
-├── training_text.csv # Clinical text data
+|──> solution.ipynb # Main Jupyter Notebook (Solution)
+├──> training_variants.csv # Gene and Variation data
+├──> training_text.csv # Clinical text data
 
 
 - **solution.ipynb**: The main notebook where all data preprocessing, feature engineering, model building, and evaluation are done.
